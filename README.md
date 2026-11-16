@@ -34,7 +34,7 @@ Box, G. E. P., and Jenkins, G. M. (1976). Time Series Analysis: Forecasting and 
 Citation:
 If you use this implementation, please cite the associated journal paper and the archived software release.
 Journal paper: Nonlinear System Identification Using Function-Link Recurrent General Type-2 Fuzzy Neural Networks: A Comparative Study
-Software DOI: [Insert Zenodo DOI]
+Software DOI: [https://doi.org/10.5281/zenodo.24272952]
 =====================================
 License:
 This project is licensed under the MIT License.
