@@ -37,4 +37,5 @@ Journal paper: Nonlinear System Identification Using Function-Link Recurrent Gen
 Software DOI: [Insert Zenodo DOI]
 =====================================
 License:
-MATLAB
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
